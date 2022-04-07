@@ -15,7 +15,7 @@ https://dashboard.heroku.com/new?template=https://github.com/xszawe342/lengqi640
 
 ## 路径
 
-`WebSocket` 路径(配置文件中的 `path` )为 `/app` 。你也可以自行修改
+`WebSocket` 路径(配置文件中的 `path` )为 `app` 。你也可以自行修改
 
 ## 端口
 
